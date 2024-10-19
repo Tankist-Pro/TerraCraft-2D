@@ -1,0 +1,4 @@
+air false /textures/block/air.png
+grass true /textures/block/grass.png
+dirt true /textures/block/dirt.png
+stone true /textures/block/stone.png
